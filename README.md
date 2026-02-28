@@ -219,7 +219,7 @@ Ideas for contributions:
 
 ## 📝 License
 
-MIT License — do whatever you want with it.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
@@ -232,7 +232,5 @@ MIT License — do whatever you want with it.
 <div align="center">
 
 **If this saved you time, give it a ⭐️**
-
-Made with 💀 and caffeine
 
 </div>
