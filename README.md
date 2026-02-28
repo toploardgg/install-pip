@@ -62,11 +62,11 @@ Pick from **~200 pre-listed packages** or type any name — the tool fuzzy-match
 
 ```bash
 # 1. Download the script
-git clone https://github.com/yourusername/py-lib-installer.git
-cd py-lib-installer
+git clone https://github.com/yourusername/py-lib-installer.git](https://github.com/toploardgg/install-pip.git
+cd install-pip
 
 # 2. Run it — that's it. No dependencies needed.
-python installer.py
+python main.py
 ```
 
 > ⚡ The installer uses only Python standard library (`subprocess`, `difflib`, `sys`, `os`) — **zero setup required**.
