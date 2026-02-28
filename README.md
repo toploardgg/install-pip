@@ -32,7 +32,7 @@ Pick from **~200 pre-listed packages** or type any name — the tool fuzzy-match
 
 ## 📸 Screenshots
 
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## 📋 Supported Library Categories
 
