@@ -30,6 +30,10 @@ Pick from **~200 pre-listed packages** or type any name — the tool fuzzy-match
 - 🖥️ **Terminal Colors** — Clear visual feedback: green = good, red = dead
 - 🔄 **Batch + Single** — Install everything at once OR pick what you need
 
+## 📸 Screenshots
+
+![Screenshot](screenshots/screenshot.png)
+
 ## 📋 Supported Library Categories
 
 | Category | Examples |
