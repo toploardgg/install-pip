@@ -168,7 +168,7 @@ You always get the final say: pick a suggestion, install as-is, or skip.
 ## 📁 Project Structure
 
 ```
-py-lib-installer/
+install-pip/
 │
 ├── installer.py          # The entire tool — single file, no dependencies
 ├── README.md             # This file
@@ -225,7 +225,7 @@ MIT License — do whatever you want with it.
 
 **Your Name Here**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@toploardgg](https://github.com/toploardgg)
 
 ---
 
